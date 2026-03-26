@@ -66,11 +66,11 @@ export default function LandingPage() {
           imageAlt: "Floral arrangement display",
         },
         {
-          imageSrc: "https://pixabay.com/get/gf0e97b7821597f1a0ea3236e06b3c1d3d2be3e0f558a8dd29b868111b13ccfc4cd4d515c5a3fd4e04ed6cabd5ff9d13cd2c28bb62fb035423fcc3087b05d8aa2_1280.jpg",
+          imageSrc: "https://pixabay.com/get/gf0e97b7821597f1a0ea3236e06b3c1d3d2be3e0f558a8dd29b868111b13ccfc4cd4d515c5a3fd4e04ed6cabd5ff9d13cd2c28bb62fb035423fcc3087b05d8aa2_1280.jpg?_wi=1",
           imageAlt: "Seasonal bouquet",
         },
         {
-          imageSrc: "https://pixabay.com/get/g3bfe21d2389a460d7e491acca3214ec05661fc4d9faa3491795d3af352807805da3546bbd65352eb8a79f2588ff14e5ce3f303d8476dc87661410cedf800fd33_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g3bfe21d2389a460d7e491acca3214ec05661fc4d9faa3491795d3af352807805da3546bbd65352eb8a79f2588ff14e5ce3f303d8476dc87661410cedf800fd33_1280.jpg?_wi=1",
           imageAlt: "Rose arrangement",
         },
       ]}
@@ -103,13 +103,13 @@ export default function LandingPage() {
           id: "1",
           name: "Classic Elegance",
           price: "$85",
-          imageSrc: "https://pixabay.com/get/gf0e97b7821597f1a0ea3236e06b3c1d3d2be3e0f558a8dd29b868111b13ccfc4cd4d515c5a3fd4e04ed6cabd5ff9d13cd2c28bb62fb035423fcc3087b05d8aa2_1280.jpg",
+          imageSrc: "https://pixabay.com/get/gf0e97b7821597f1a0ea3236e06b3c1d3d2be3e0f558a8dd29b868111b13ccfc4cd4d515c5a3fd4e04ed6cabd5ff9d13cd2c28bb62fb035423fcc3087b05d8aa2_1280.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Wild Garden",
           price: "$120",
-          imageSrc: "https://pixabay.com/get/g3bfe21d2389a460d7e491acca3214ec05661fc4d9faa3491795d3af352807805da3546bbd65352eb8a79f2588ff14e5ce3f303d8476dc87661410cedf800fd33_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g3bfe21d2389a460d7e491acca3214ec05661fc4d9faa3491795d3af352807805da3546bbd65352eb8a79f2588ff14e5ce3f303d8476dc87661410cedf800fd33_1280.jpg?_wi=2",
         },
         {
           id: "3",
